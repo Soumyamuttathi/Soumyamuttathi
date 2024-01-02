@@ -1,7 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/62384197/216797032-12320167-65e8-40d1-985f-e5cdea790890.gif)]
 <h1 align="center">Hi 👋, I'm Soumya</h1>
 <h3 align="center">A passionate, Detail-oriented Software Tester from India</h3>
-<img align="right" alt="Coding" width="400" src="https://bit.ly/41KyiM1">
 
 - 📫 How to reach me **soumyamuttathi12@gmail.com**
 
